@@ -2,7 +2,7 @@
 
 ## Assignment 01
 ### Assignment Description
-...
+This programming assignment centered around unigrams, bigrams, and trigrams, as well as word frequencies in a document corpus. The assigned task was to generate a list of grams (up to trigrams) as well as the frequencies.
 ### Source Files
 Source Files: Ngrams.java
 

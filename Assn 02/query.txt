@@ -1,0 +1,9 @@
+document
+armadillo
+document /5 ink
+hand reached
+screamed /20 angrily
+youngest /4 daughter
+youngest /1000 daughter
+~seek bible-kjv.txt 33758
+~seek austen-emma.txt 53
